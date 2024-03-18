@@ -1,6 +1,9 @@
-# progressivesensormonitor
+# Progressive Sensor Client
 
-## Project setup
+### Server project
+[Progressive Sensor Server](https://github.com/smarbos/progressiveSensorServer)
+
+### Project setup
 ```
 npm install
 ```
@@ -19,6 +22,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
